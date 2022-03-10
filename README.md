@@ -2,9 +2,7 @@
 <img src="https://media.giphy.com/media/EnVTvGAQUlou4/giphy.gif" width="350" height="230"/>
 </p>
 
-# ℱʂơƈıɛɬყ ცơɬ
-
-𝔹𝕆𝕋 𝔹𝕐: 🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦 
+🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦 
 
 𝓣𝓮𝓪𝓶 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚 
 
