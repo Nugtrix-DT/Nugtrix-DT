@@ -5,6 +5,8 @@
 # 🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦 
 
 <p align='center'><a href="https://www.instagram.com/nugtrix_dt">
+ 
+  <a href="https://instagram.com/nugtrix-dt">
 
 𝓣𝓮𝓪𝓶 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚 
 
