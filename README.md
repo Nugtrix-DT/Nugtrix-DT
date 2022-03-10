@@ -4,6 +4,8 @@
 
 # 🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦 
 
+<p align='center'><a href="https://www.instagram.com/nugtrix_dt"><img height="200" src="https://github.com/TobyG74/TobyG74/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+
 𝓣𝓮𝓪𝓶 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚 
 
 ###### 👇 ꜱɪ ᴛɪᴇɴᴇꜱ ᴀʟɢᴜɴᴀ ᴅᴜᴅᴀ ᴏ ᴀʟɢᴏ ᴇꜱᴄʀɪʙᴇᴍᴇ ᴀQᴜɪ
