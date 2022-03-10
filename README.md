@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/EnVTvGAQUlou4/giphy.gif" width="350" height="230"/>
+<img title="Nugtrix-DT" src="https://media.giphy.com/media/EnVTvGAQUlou4/giphy.gif" width="350" height="230"/>
 </p>
 
 # 🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦 
