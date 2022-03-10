@@ -2,7 +2,7 @@
 <img title="Nugtrix-DT" src="https://media.giphy.com/media/EnVTvGAQUlou4/giphy.gif" width="350" height="230"/>
 </p>
 
-# 🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦 
+# _🦦℘NᏌᏩᎢᎡᏆX-ᴰᵀ℘🦦_
 
 
 𝓣𝓮𝓪𝓶 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚 
