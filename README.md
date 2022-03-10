@@ -28,5 +28,6 @@
 <div align="center">
   <a href="https://github.com/Nugtrix-DT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nugtrix-DT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nugtrix-DT&count_private=true&show_icons=true&theme=tokyonight)
   
