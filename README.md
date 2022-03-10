@@ -6,7 +6,7 @@
 
 <p align='center'><a href="https://www.instagram.com/nugtrix_dt">
  
-  <a href="https://instagram.com/nugtrix-dt">
+  <a href="https://instagram.com/nugtrix-dt"><img height="30" src="https://github.com/Nugtrix-DT/Nugtrix-DT/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
 𝓣𝓮𝓪𝓶 𝑭𝒔𝒐𝒄𝒊𝒆𝒕𝒚 
 
