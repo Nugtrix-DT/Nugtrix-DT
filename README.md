@@ -18,7 +18,12 @@
 [![Nugtrix-DT](https://github.com/Nugtrix-DT.png?size=100)](https://github.com/Nugtrix-DT)
 
 
-
+<div align="center">
+  <a href="https://github.com/Nugtrix-DT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nugtrix-DT-Li&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **Nugtrix-DT/Nugtrix-DT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
