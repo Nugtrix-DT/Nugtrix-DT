@@ -9,9 +9,7 @@
 ## ```ꜱɪ ᴛɪᴇɴᴇꜱ ᴀʟɢᴜɴᴀ ᴅᴜᴅᴀ ᴏ ᴀʟɢᴏ ᴇꜱᴄʀɪʙᴇᴍᴇ por estos medios de ᴀQᴜɪ```
 <p align="center">
 <a href="https://www.instagram.com/nugtrix_dt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<p align="center">
- [![blog](https://img.shields.io/badge/Nugtrix_DT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://api.whatsapp.com/send?phone=593978963202&text=%C2%A1Hola!%20Nutria%20%F0%9F%A6%A6%20vengo%20de%20GitHub)
+<a href="https://api.whatsapp.com/send?phone=593978963202&text=%C2%A1Hola!%20Nutria%20%F0%9F%A6%A6%20vengo%20de%20GitHub"><img src="https://img.shields.io/badge/Nugtrix_DT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### 🦦 ℝ𝕖𝕪 ℕ𝕦𝕥𝕣𝕚𝕒
